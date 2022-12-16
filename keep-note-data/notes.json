@@ -55,6 +55,26 @@
       "category": "Office",
       "priority": "Medium",
       "id": 7
+    },
+    {
+      "title": "nithin",
+      "content": "this my new note",
+      "reminderDate": "2022-11-30T18:30:00.000Z",
+      "category": "office",
+      "priority": "Medi",
+      "id": 8
+    },
+    {
+      "priority": "Medi",
+      "title": "nithin",
+      "content": "njnijniringnierkjf",
+      "reminderDate": "2022-10-01T18:30:00.000Z",
+      "category": "irjkfkiojfoidkl",
+      "id": 9
+    },
+    {
+      "title": "nithin",
+      "id": 10
     }
   ]
 }
